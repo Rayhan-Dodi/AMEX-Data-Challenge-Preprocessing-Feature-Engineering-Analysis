@@ -61,5 +61,4 @@ This project delivers a clean and organized dataset, ready for advanced modeling
 
 📬 **Contact**
 Want to discuss this project or collaborate?  
-Let’s connect on [LinkedIn](#) or drop a message!
-
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/rayhan-dodi/)!
